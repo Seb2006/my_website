@@ -1,4 +1,4 @@
-# my_website
+# PLEASE READ THIS:
 *********************************************
 THIS PROJECT IS NOT TO BE USED WITHOUT CREDIT
 *********************************************
